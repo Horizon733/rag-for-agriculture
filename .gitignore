@@ -1,0 +1,13 @@
+chroma/
+.env
+
+# Standard Ignores
+venv
+.venv
+__pycache__/
+.DS_Store
+.vscode/
+.history/
+.pytype/
+.pytest_cache/
+.idea/
